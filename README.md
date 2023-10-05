@@ -43,7 +43,6 @@ For the "AFTER" metrics, network access controls were tightened by restricting i
 The table below presents key security metrics measured within the untreated honeynet environment over a 24-hour observation period:
 
 Start Time 2023-09-20 11:08:04 PM
-
 Stop Time 2023-09-21 11:08:04 PM
 
 | Metric                   | Count
