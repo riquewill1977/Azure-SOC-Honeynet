@@ -44,7 +44,7 @@ The table below presents key security metrics measured within the untreated hone
 
 
 Start Time 2023-09-20 11:08:04 PM</br>
-Stop Time 2023-09-21 11:08:04 PM
+Stop Time 2023-09-21 11:08:04 PM</br>
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -62,8 +62,8 @@ Stop Time 2023-09-21 11:08:04 PM
 
 The following table displays key security metrics measured within the hardened honeynet environment over a subsequent 24-hour observation window, following implementation of security controls:
 
-Start Time 2023-09-23 10:01:07 AM
-Stop Time 2023-09-24 10:15:04 AM
+Start Time 2023-09-23 10:01:07 AM</br>
+Stop Time 2023-09-24 10:15:04 AM</br>
 
 | Metric                   | Count
 | ------------------------ | -----
