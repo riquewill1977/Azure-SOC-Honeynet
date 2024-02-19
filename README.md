@@ -56,7 +56,7 @@ Stop Time 2023-09-21 11:08:04 PM</br>
 
 ## Attack Maps Before Hardening / Security Controls
 
-```After hardening the environment, map queries for the 24 hour observation period returned no results, indicating the security controls implemented successfully prevented malicious activity within the honeynet.```
+```After hardening the environment, map queries for the 24 hour observation period returned no results, indicating the security controls implemented successfully preventing malicious activity within the honeynet.```
 
 ## Metrics After Hardening / Security Controls
 
